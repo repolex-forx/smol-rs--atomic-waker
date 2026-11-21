@@ -94,7 +94,9 @@
           "source": "lsp",
           "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-util-0.3.34/src/future/poll_fn.rs"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/9969a29ccd1fe298e2df7346849c0095ba303a64/chunk-001.nq.gz",
+      "dep": "dep/9969a29ccd1fe298e2df7346849c0095ba303a64.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
