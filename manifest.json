@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "smol-rs",
+  "repo": "atomic-waker",
+  "versions": [
+    {
+      "commit": "9969a29ccd1fe298e2df7346849c0095ba303a64",
+      "parsed_at": "2026-11-21T23:25:56.328299+00:00",
+      "tag": "v1.1.2",
+      "filetree": "filetree/9969a29ccd1fe298e2df7346849c0095ba303a64.nq.gz",
+      "blobs": [
+        "blob/fb48c9191b3bb0f5831c6c52dfbc3cf3e9806c21.nq.gz",
+        "blob/d305121efc97bf77c8898aaa8daf211155218c8f.nq.gz",
+        "blob/09c3f9292eea39886b723a2fd6b626c017a043ce.nq.gz",
+        "blob/16fe87b06e802f094b3fbb0894b137bca2b16ef1.nq.gz",
+        "blob/df055fb9a4e31c9d2c4094ac71d4f080e4bd23a7.nq.gz",
+        "blob/59fad1f971b51f3884f8b6b71f1c02b81a3ae4d1.nq.gz",
+        "blob/aa77d251aad59f301d94870e115505d54db9eb69.nq.gz",
+        "blob/574cf1f658284616513d22dc42f5401e847f75f3.nq.gz",
+        "blob/199d82dea00277f6ca7e0e942aebfdaf173bb708.nq.gz",
+        "blob/96ef6c0b944e24fc22f51f18136cd62ffd5b0b8f.nq.gz",
+        "blob/0dd339f02a6f580270ac63e6325474045167a678.nq.gz",
+        "blob/31aa79387f27e730e33d871925e152e35e428031.nq.gz",
+        "blob/52f79451880d0933ff64b9b54db861955d744dfc.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
