@@ -1,0 +1,11 @@
+{
+  "org": "smol-rs",
+  "repo": "atomic-waker",
+  "versions": [
+    {
+      "commit": "9969a29ccd1fe298e2df7346849c0095ba303a64",
+      "tag": "v1.1.2",
+      "parsed_at": "2026-11-21T23:35:47.555169+00:00"
+    }
+  ]
+}
