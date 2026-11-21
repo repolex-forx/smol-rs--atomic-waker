@@ -25,6 +25,75 @@
       ],
       "ast": [
         "aggregate/ast/9969a29ccd1fe298e2df7346849c0095ba303a64/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/9969a29ccd1fe298e2df7346849c0095ba303a64.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "portable-atomic",
+          "ecosystem": "CARGO",
+          "version": "1",
+          "githubOrg": "taiki-e",
+          "githubRepo": "portable-atomic",
+          "githubUrl": "https://github.com/taiki-e/portable-atomic",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "criterion",
+          "ecosystem": "CARGO",
+          "version": "0.4.0",
+          "githubOrg": "criterion-rs",
+          "githubRepo": "criterion.rs",
+          "githubCommit": "5e27b692a43a05736d073fd449e16dcf1c24628c",
+          "githubTag": "0.4.0",
+          "githubUrl": "https://github.com/criterion-rs/criterion.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "futures",
+          "ecosystem": "CARGO",
+          "version": "0.3.5",
+          "githubOrg": "rust-lang",
+          "githubRepo": "futures-rs",
+          "githubCommit": "4ceafb384c18e664a507892b16c98322a6e240a1",
+          "githubTag": "0.3.5",
+          "githubUrl": "https://github.com/rust-lang/futures-rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "rayon",
+          "ecosystem": "CARGO",
+          "version": "1.7.0",
+          "githubOrg": "rayon-rs",
+          "githubRepo": "rayon",
+          "githubCommit": "6236214d717694917e77aa1c16d91176b9bc2fff",
+          "githubTag": "v1.7.0",
+          "githubUrl": "https://github.com/rayon-rs/rayon",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "futures-executor",
+          "ecosystem": "CARGO",
+          "version": "0.3.34",
+          "githubOrg": "rust-lang",
+          "githubRepo": "futures-rs",
+          "githubCommit": "705e6b5c0f06535b1aac1cb1989a172b3d45be8c",
+          "githubTag": "0.3.34",
+          "githubUrl": "https://github.com/rust-lang/futures-rs",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-executor-0.3.34/src/local_pool.rs"
+        },
+        {
+          "packageName": "futures-util",
+          "ecosystem": "CARGO",
+          "version": "0.3.34",
+          "githubOrg": "rust-lang",
+          "githubRepo": "futures-rs",
+          "githubCommit": "705e6b5c0f06535b1aac1cb1989a172b3d45be8c",
+          "githubTag": "0.3.34",
+          "githubUrl": "https://github.com/rust-lang/futures-rs",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-util-0.3.34/src/future/poll_fn.rs"
+        }
       ]
     }
   ],
